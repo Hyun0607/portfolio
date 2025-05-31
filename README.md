@@ -37,7 +37,7 @@
 - 📄 설명:  
   예상 질의 기반 임베딩을 통해 기존 개요 기반 RAG보다 높은 정확도를 입증하였으며,  
   자동 평가 파이프라인까지 구축한 LLM 기반 추천 알고리즘 연구입니다.  
-- 🔗 GitHub: [예시 링크](https://github.com/yourusername/project-rag-research)
+- 🔗 GitHub: [논문 상세설명](https://github.com/Hyun0607/LLM-RAG-Q-Research)
 
 ---
 
