@@ -65,7 +65,7 @@
   우울증 여부를 예측하기 위한 머신러닝 모델(로지스틱 회귀, 결정트리, 랜덤포레스트)을 비교 분석.  
   주요 변수 시각화 및 변수 중요도 분석을 통해 인사이트를 도출하고,  
   실제 예측 성능을 기반으로 최적 모델을 선정하여 보고서를 작성함.  
-- 🔗 GitHub: [프로젝트 상세설명](https://github.com/yourusername/project-topic-modeling)
+- 🔗 GitHub: [프로젝트 상세설명](https://github.com/Hyun0607/Depression)
 
 
 ---
