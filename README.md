@@ -71,6 +71,6 @@
 
 # 📫 Contact
 
-- Email: **loveramis3@gmail.com**
+- Email: **lovearamis3@gmail.com**
 - GitHub: [github.com/Hyun0607](https://github.com/Hyun0607)
 
