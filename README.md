@@ -25,7 +25,7 @@
   자연어로 조건을 입력하면 고령층 및 장애인을 위한 숙소를 추천해주는 RAG 기반 AI 시스템입니다.  
   사용자의 질의와 유사한 예상질의를 벡터로 검색하고, 정형정보(RDB)를 연동하여 GPT가 응답을 생성합니다.  
   또한 TF-IDF 기반 핵심어 레이블을 통해 성능을 자동 평가하는 파이프라인도 구축했습니다.
-- 🔗 GitHub: [예시 링크](https://github.com/Hyun0607/Sliver_Stay_AI)
+- 🔗 GitHub: [프로젝트 상세설명](https://github.com/Hyun0607/Sliver_Stay_AI)
 
 ---
 
