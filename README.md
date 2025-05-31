@@ -1,6 +1,6 @@
 # 📜 정현우 포트폴리오
 
-> 정현우(Hyunwoo Jung) - Data Engineer 포트폴리오
+> 정현우(HyunWoo Jung) - Data Engineer 포트폴리오
 
 <br />
 
