@@ -22,9 +22,10 @@
 - 🔧 역할: AI/데이터 구축 담당 (데이터 임베딩, 벡터DB 구축, GCP RDB 연동, LLM API 사용)  
 - 🧰 기술: `OpenAI API`, `LangChain`, `pandas`, `ChromaDB`, `PostgreSQL`
 - 📄 설명:  
-  LLM 기반 질의 생성 및 벡터 임베딩을 활용하여 자연어 기반 숙소 추천을 구현하였으며,  
-  지역 필터링 및 평가 자동화를 위한 RAG 구조를 설계한 프로젝트입니다.  
-- 🔗 GitHub: [예시 링크](https://github.com/yourusername/project-era)
+  자연어로 조건을 입력하면 고령층 및 장애인을 위한 숙소를 추천해주는 RAG 기반 AI 시스템입니다.  
+  사용자의 질의와 유사한 예상질의를 벡터로 검색하고, 정형정보(RDB)를 연동하여 GPT가 응답을 생성합니다.  
+  또한 TF-IDF 기반 핵심어 레이블을 통해 성능을 자동 평가하는 파이프라인도 구축했습니다.
+- 🔗 GitHub: [예시 링크](https://github.com/Hyun0607/Sliver_Stay_AI)
 
 ---
 
