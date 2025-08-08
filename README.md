@@ -21,7 +21,7 @@
 
 - 📅 2025.05 – 2025.06  
 - 🔧 역할: 데이터 전처리 및 머신러닝 모델 구축, 변수 중요도 분석  
-- 🧰 기술: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `XGBoost`, `SHAP`  
+- 🧰 기술: `matplotlib`, `scikit-learn`, `Randomforest`, `XGBoost`, `SHAP`  
 - 📄 설명:  
   Spotify가 Kaggle을 통해 제공한 곡별 오디오 특성과 인기점수 데이터를 활용하여 인기 여부(60점 이상)를 이진분류하는 머신러닝 프로젝트입니다.  
   데이터 전처리(컬럼 정리, 로그 변환, 스케일링, VIF 검증)를 거친 후, Logistic Regression, Random Forest, XGBoost, SVM 모델을 학습·평가하였으며, 평가기준은 AUC 및 F1-score를 기준으로 성능을 비교했습니다.  
