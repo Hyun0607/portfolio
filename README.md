@@ -23,7 +23,7 @@
 - 🧰 기술: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `XGBoost`, `SHAP`  
 - 📄 설명:  
   Spotify가 Kaggle을 통해 제공한 곡별 오디오 특성과 인기점수 데이터를 활용하여 인기 여부(60점 이상)를 이진분류하는 머신러닝 프로젝트입니다.  
-  데이터 전처리(컬럼 정리, 로그 변환, 스케일링, VIF 검증)를 거친 후, Logistic Regression, Random Forest, XGBoost, SVM 모델을 학습·평가하였으며, AUC 및 F1-score를 기준으로 성능을 비교했습니다.  
+  데이터 전처리(컬럼 정리, 로그 변환, 스케일링, VIF 검증)를 거친 후, Logistic Regression, Random Forest, XGBoost, SVM 모델을 학습·평가하였으며, 평가기준은 AUC 및 F1-score를 기준으로 성능을 비교했습니다.  
   또한 XGBoost + SHAP 분석을 통해 인기곡 예측에 영향을 미치는 핵심 특성(loudness, energy, danceability 등)을 도출했습니다.
 - 🔗 GitHub: [프로젝트 상세설명]()
 
